@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at the IMS Base. My Passion is coding and cyber security
+I'm a student at the IMS Basel. My Passion is coding and cyber security
 
 
 # 💻 Tech Stack:
